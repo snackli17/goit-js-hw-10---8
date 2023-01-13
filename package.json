@@ -2,20 +2,20 @@
   "name": "goit-js-hw-10",
   "version": "2.0.0",
   "description": "This project was created with Parcel. For familiarization and setting additional features [refer to documentation](https://parceljs.org/).",
-  "homepage": "https://github.com/snackli17/goit-js-hw-10/settings/pages",
+  "homepage": "https://snackli17.github.io/goit-js-hw-10/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "https://snackli17.github.io/goit-js-hw-10/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/snackli17/goit-js-hw-10/settings/pages"
+    "url": "git+https://snackli17.github.io/goit-js-hw-10/"
   },
   "keywords": [],
   "author": "Turchyn Natalia",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/snackli17/goit-js-hw-10/settings/pages"
+    "url": "https://snackli17.github.io/goit-js-hw-10/"
   },
   "dependencies": {
     "lodash": "^4.17.21",
